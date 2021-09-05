@@ -11,6 +11,8 @@ defmodule CacheProxy.Application do
       CacheProxyWeb.Telemetry,
       # Start the PubSub system
       {Phoenix.PubSub, name: CacheProxy.PubSub},
+      # Start Supervisor for Cache
+      CacheProxy.CacheSupervisor,
       # Start the Endpoint (http/https)
       CacheProxyWeb.Endpoint
       # Start a worker by calling: CacheProxy.Worker.start_link(arg)

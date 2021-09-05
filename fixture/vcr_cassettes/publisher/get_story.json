@@ -1,0 +1,27 @@
+[
+  {
+    "request": {
+      "body": "",
+      "headers": [],
+      "method": "get",
+      "options": [],
+      "request_body": "",
+      "url": "https://baconipsum.com/api/?type=meat-and-filler"
+    },
+    "response": {
+      "binary": false,
+      "body": "[\"Jerky tri-tip bacon est do ball tip et adipisicing shank kevin deserunt.  Flank venison short ribs fugiat chislic in corned beef exercitation reprehenderit.  Rump sunt tongue dolore cupim strip steak cupidatat alcatra salami ut est.  Culpa strip steak pork eu irure.  Ut salami jerky pork belly culpa id pancetta fugiat excepteur.\",\"Tri-tip ham hock id in, proident est nostrud aute qui shank fugiat laboris shankle.  Rump cupidatat spare ribs mollit ut, pastrami labore t-bone.  Bacon fatback salami buffalo chicken, bresaola sunt alcatra tempor filet mignon do rump officia in ham.  Pastrami consequat pork ut commodo lorem andouille.  Burgdoggen excepteur spare ribs porchetta filet mignon short loin, ham hock shank.  Sausage ut aliquip anim frankfurter kielbasa.  Flank shankle tri-tip salami proident ground round jerky consectetur ea strip steak rump ad beef ribs in voluptate.\",\"Magna anim alcatra, spare ribs beef ribs laboris pig pork incididunt frankfurter salami biltong.  Ullamco lorem dolor, burgdoggen rump tenderloin hamburger spare ribs.  Enim ipsum cupim meatball sint.  Capicola labore ut chislic short loin salami.  Laboris dolor turkey doner sirloin commodo sed flank.\",\"Non short ribs shoulder, ribeye enim pariatur dolore in laboris pancetta id picanha elit turducken tongue.  Chislic do proident aute spare ribs, tri-tip ut aliqua irure id ex.  Anim biltong dolor aute sint doner brisket voluptate capicola pork chop meatloaf.  Enim turkey id culpa kielbasa, mollit ground round landjaeger ribeye shank.  Aliqua consectetur alcatra kevin, sint incididunt bresaola ball tip.  Drumstick aute kielbasa, jerky dolore turducken minim spare ribs.\",\"Alcatra meatloaf ad chislic, ground round pork chop ipsum jerky cupidatat voluptate burgdoggen consectetur proident landjaeger picanha.  Alcatra filet mignon biltong, in chicken boudin flank corned beef jowl ham pig.  Ham hock culpa pork loin, nostrud alcatra pig commodo ham reprehenderit voluptate.  Meatball turducken id porchetta bacon fugiat.  Fatback swine meatball ut irure leberkas ham hock elit.  Cupim pastrami veniam porchetta duis alcatra bacon ad hamburger deserunt ut.  Esse fatback ham hock, short ribs ball tip hamburger pork belly chislic eiusmod rump meatball commodo incididunt excepteur cillum.\"]",
+      "headers": {
+        "Server": "nginx/1.18.0 (Ubuntu)",
+        "Date": "Sun, 05 Sep 2021 12:33:24 GMT",
+        "Content-Type": "application/json; charset=UTF-8",
+        "Content-Length": "2285",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding",
+        "Access-Control-Allow-Origin": "*"
+      },
+      "status_code": 200,
+      "type": "ok"
+    }
+  }
+]

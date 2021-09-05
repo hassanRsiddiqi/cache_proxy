@@ -7,5 +7,7 @@ defmodule CacheProxyWeb.Router do
 
   scope "/api", CacheProxyWeb do
     pipe_through :api
+
+    post "/search", SearchController, :index
   end
 end
